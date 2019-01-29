@@ -1,0 +1,5 @@
+alist=input("Enter list")
+print(alist)
+blist=alist.split(",")
+#alist=list(alist)
+print(blist)

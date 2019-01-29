@@ -1,0 +1,34 @@
+1)prg to capture any filename from keyoard  and display its filename and extension separately
+
+Op :
+Enter any filename : hello.py
+
+filename : hello
+extension : py
+
+
+
+2)write a prog to capture 2 nos separately from keybrd and display its sum
+
+first no  : 10
+second no : 20
+sum = 30
+
+
+3)write a prog and display all duplicates of the list
+
+alist=[10,20,30,10,35,20,67,89,20,10]
+
+op : should display all unique nos
+
+4)write a prog to capture the string "Python is general purpose interpreted cross platform programming language" from
+ the keyboard and perform below operations
+ 
+ 1. display the string in uppercase
+ 2. count the no of occurenced of p in string and display its
+ 3. replace python to ruby in string
+ 4. count the no of words in the string #len(str.split(""))
+ 5. count the no of chars  #len(str)
+ 6. remove spaces if any #str.strip()
+ 
+ 
